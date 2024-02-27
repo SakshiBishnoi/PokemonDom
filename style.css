@@ -1,7 +1,7 @@
-.pokemon {
+div {
     display: inline-block;
     text-align: center;
 }
-.pokemon img {
+div img {
     display: block;
 }
